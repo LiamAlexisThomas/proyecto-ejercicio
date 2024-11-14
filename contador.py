@@ -1,4 +1,4 @@
-contador = 0
+contador = 1
 def incrementar():
     global contador
     contador += 1
